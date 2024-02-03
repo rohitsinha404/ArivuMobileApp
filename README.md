@@ -1,3 +1,12 @@
+## Contributors
+
+- **Atharva Joshi**
+- **Anushka Kathal**
+- **Mamta Rajera**
+- **Rohit Sinha**
+- **Rudraksh Ranade**
+- **Utkarsh Soni**
+
 # Recommended next steps:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
