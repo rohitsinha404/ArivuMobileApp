@@ -1,6 +1,6 @@
 # Contributors
 
-- **[Atharva Joshi](https://github.com/AtharvA20003/Atharva_Joshi/blob/main/Atharva-Joshi.md)**
+- **[Atharva Joshi](https://github.com/AtharvA20003/)**
 - **[Rohit Sinha](https://github.com/rohitsinha404/)**
 - **[Utkarsh Soni](https://github.com/Utkarsh-soni328)**
 - **[Anushka Kathal](https://github.com/aye-kay)**
