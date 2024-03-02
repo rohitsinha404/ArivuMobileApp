@@ -4,8 +4,8 @@
 - **[Rohit Sinha](https://github.com/rohitsinha404/)**
 - **[Utkarsh Soni](https://github.com/Utkarsh-soni328)**
 - **[Anushka Kathal](https://github.com/aye-kay)**
-- **[Mamta Rajera](https://MamtaRajera)**
-- **[Rudraksh Ranade](https://RudrakshRanade)**
+- **[Mamta Rajera](https://github.com/MamtaRajera)**
+- **[Rudraksh Ranade](https://github.com/RudrakshRanade)**
 
 
 ## Who are We?
